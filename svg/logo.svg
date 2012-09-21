@@ -2,7 +2,12 @@
   <defs>
     <style>
       @import url(http://fonts.googleapis.com/css?family=Audiowide);
-      text { text-anchor: middle; font: 420px 'Audiowide'; text-rendering: geometricPrecision; }
+      text {
+      text-anchor: middle;
+      font: 420px 'Audiowide';
+      letter-spacing: -20.5px;
+      text-rendering: geometricPrecision;
+      }
     </style>
   </defs>
   <text x="400" y="400">qb</text>
