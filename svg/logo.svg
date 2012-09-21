@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <style>
+      @import url(http://fonts.googleapis.com/css?family=Audiowide);
+      text { text-anchor: middle; font: 420px 'Audiowide'; text-rendering: geometricPrecision; }
+    </style>
+  </defs>
+  <text x="400" y="400">qb</text>
+</svg>
